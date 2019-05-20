@@ -147,4 +147,19 @@ close(FILE);
 exit;
 
 ```
+----
+
+## Results
+
+Here are some results
+
+<img src = "Options.PNG" width = "300">
+
+<img src = "Search.PNG" width = "300">
+
+<img src = "addname.PNG" width = "300">
+
+<img src = "invalid.PNG" width = "300">
+
+<img src = "quit.PNG" width = "300">
 
